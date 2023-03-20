@@ -1,0 +1,1 @@
+[bisection and newton raphson](https://github.com/muthonih/bisection-and-newton-raphson-metthod/blob/main/BISECTION_METHOD_AND_NEWTON_RAPHSON.pdf)
